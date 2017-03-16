@@ -1,4 +1,4 @@
-package ru.magdel;
+package ru.magdel.app.httplog;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
