@@ -34,6 +34,7 @@ public class HttpLogApplication {
     }
 
     public static void main(String[] args) {
+        logger.info("Starting up..");
         SpringApplication.run(HttpLogApplication.class, args);
     }
 }
