@@ -3,7 +3,7 @@ Logger for HTTP request
 
 
 [![Travis CI](https://travis-ci.org/magdel/httplog.svg?branch=master)](https://travis-ci.org/magdel/httplog)
-
+[![Coverage Status](https://coveralls.io/repos/github/magdel/httplog/badge.svg?branch=master)](https://coveralls.io/github/magdel/httplog?branch=master)
 Listen HTTP and if request is to "/log" write headers to log 
 
 Built with Spring-Boot.
